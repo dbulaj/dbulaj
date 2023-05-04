@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Dominik Bulaj, I'm a frontend developer and I'm working for **Hitachi Energy ESS R&D**
+
+
 
 <!--
 **dbulaj/dbulaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
