@@ -2,6 +2,9 @@
 
 I'm Dominik Bulaj, I'm a frontend developer and I'm working for **Hitachi Energy ESS R&D**
 
+Personally, I'm using other GH account: [dominikbulaj](https://github.com/dominikbulaj) \
+There you can see some of my open-source projects like e.g. [react-scroll-into-view](https://github.com/dominikbulaj/react-scroll-into-view)
+
 
 
 <!--
